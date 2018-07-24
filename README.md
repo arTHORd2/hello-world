@@ -1,2 +1,3 @@
 # hello-world
-Introduction to GitHub repository
+# Introduction to GitHub repository
+print "Hello World!"
